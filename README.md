@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Doff3n&show_icons=true&hide_border=true)
 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## What I use 👨‍💻 
 
 <table>
   <tbody>
