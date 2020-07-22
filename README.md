@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100px"></h2>
 
 <!--
 **Doff3n/Doff3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
