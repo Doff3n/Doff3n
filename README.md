@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Doff3n&show_icons=true&hide_border=true)
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
@@ -44,3 +43,11 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
+### Other Accounts 📫
+
+You can find and get touch with me on these accounts!
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Doff3n) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/kristoffagram/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Doff3n) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/1304590/doff3n) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/keckhoff) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Doff3n)
+|---|---|---|---|---|---|
+
