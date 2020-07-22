@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='200"'>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Doff3n&show_icons=true&hide_border=true)
 
