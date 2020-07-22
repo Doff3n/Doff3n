@@ -1,5 +1,4 @@
 <img src="header.svg" align='center' width="400" height="200"> 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100px"></h2>
 
 <!--
 **Doff3n/Doff3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
