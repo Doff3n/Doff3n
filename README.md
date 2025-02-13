@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 You can find and get touch with me on these accounts!
 
 | [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="github logo" width="34">](https://github.com/Doff3n) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="twitter logo" width="34">](https://twitter.com/Doff3n) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/1304590/doff3n) | [<img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab logo" width="24">](https://gitlab.com/keckhoff) | [<img src="https://cdn.svgporn.com/logos/reddit-icon.svg" alt="reddit logo" width="24">](https://www.reddit.com/user/Doff3n) | [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/kristoffer-rene-e-21609613/)
-|---|---|---|---|---|---|------|
+|---|---|---|---|---|------|
 
 
